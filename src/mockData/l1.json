@@ -1,0 +1,81 @@
+{
+    "2": {
+        "ajaxUrls": null,
+        "applicationId": null,
+        "applicationInfo": {
+            "applicationCode": "r01",
+            "applicationName": "首页",
+            "applicationStatus": 1,
+            "description": null,
+            "id": 1,
+            "linkAddress": null,
+            "terminalChannelType": 1
+        },
+        "businessRoleCode": null,
+        "description": null,
+        "displayIndex": null,
+        "id": null,
+        "level": null,
+        "linkAddress": null,
+        "name": null,
+        "parentId": null,
+        "resourceCode": null,
+        "resourceType": null,
+        "resourceTypeName": "",
+        "treeCode": null
+    },
+    "3": {
+        "ajaxUrls": [
+        ],
+        "applicationId": 1,
+        "applicationInfo": {
+            "applicationCode": "r01",
+            "applicationName": "首页",
+            "applicationStatus": 1,
+            "description": null,
+            "id": 1,
+            "linkAddress": null,
+            "terminalChannelType": 1
+        },
+        "businessRoleCode": null,
+        "description": "",
+        "displayIndex": 1,
+        "id": 32,
+        "level": 2,
+        "linkAddress": "",
+        "name": "菜单权限管理",
+        "parentId": 5,
+        "resourceCode": "r010102",
+        "resourceType": 4,
+        "resourceTypeName": "菜单分类",
+        "treeCode": "yunyingzhongxin"
+    },
+    "4": {
+        "ajaxUrls": [
+            "/api/v1/test",
+            "/api/v1/test1"
+        ],
+        "applicationId": 1,
+        "applicationInfo": {
+            "applicationCode": "r01",
+            "applicationName": "首页",
+            "applicationStatus": 1,
+            "description": null,
+            "id": 1,
+            "linkAddress": null,
+            "terminalChannelType": 1
+        },
+        "businessRoleCode": null,
+        "description": "",
+        "displayIndex": 1,
+        "id": 32,
+        "level": 2,
+        "linkAddress": "/wecome/menu_management",
+        "name": "菜单管理",
+        "parentId": 5,
+        "resourceCode": "r010102",
+        "resourceType": 4,
+        "resourceTypeName": "菜单",
+        "treeCode": "yunyingzhongxin"
+    }
+}

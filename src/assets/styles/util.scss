@@ -1,0 +1,100 @@
+// 一些主要的颜色
+$mainBlue: #429fd5; // 主色
+$mainHoverBlue: #2689c3; // 主色
+$headerNavTop: #269ace; // 顶头导航栏
+$navColor: #222d32; // nav栏颜色
+$sidebarBg: #222d32; // 侧边栏背景色
+$navHoverColor: #1e282c; // navhover颜色
+$colorOrange: #f39c12; // 主橙色
+$colorRed: #dd4b39; // 主红色
+$colorGreen: #00a65a; // 主绿色
+$colorGray: #f4f4f4; // 主灰色
+$navBlue: #326be5;
+$mainContent: #333;
+$tableHeaderText: #0e284b;
+$tableHeaderBg: #f4f8fb;
+$navFontColor: #f0f1f3;
+$navItemHoverBg: #f39c12;
+$btnGray: #909399; // 按钮灰色
+$dashedColor: #ababab;
+
+// 新页面新增颜色值
+$blue: #3fadff; // 底色之一
+$backgroundColor: #c0c0c0;
+$blueGradient: #11daae; // 渐变色
+$tableHover: #e5eaf4; // 表格选中颜色
+
+/**
+* button按钮颜色取值
+*/
+// default
+$btnDefault: #2198dd;
+$btnDefaultHover: #41a8f6;
+
+// primary
+$btnPrimary: #3fadff;
+$btnPrimaryHover: #63bcff;
+
+// success
+$btnSuccess: #2bcf9d;
+$btnSuccessHover: #2ee9b0;
+
+// danger
+$btnDanger: #fe4a32;
+$btnDangerHover: #fd5c46;
+
+// info
+$btnInfo: #ffffff;
+$btnInfoHover: #f8f8f8;
+
+// disabled
+$btnDisabled: #f2f2f2;
+
+
+/**
+ * 文字及背景取值
+ */
+$fc333: #333;
+$fc666: #666;
+$fc999: #999;
+$fcddd: #ddd; // 用于分隔线和禁用按钮文字
+$white: #fff;
+$black: #000;
+
+/**
+ * 背景色
+ */
+$textBackground: #f2f2f2; // 用于禁用文本框背景
+$grayBackground: #f0f4fb; // 用于浅灰色背景块
+$darkGrayBackground: #c0c0c0; // 用于深灰色背景块
+
+/**
+ * 主色和辅助色
+ */
+$mainTheme: #3b8cc9;
+$auxiliary1: #3fadff; // 用于特殊按钮
+$auxiliary2: #2bcf9d;
+$auxiliary3: #fe4a32;
+$auxiliary4: #fa3535;
+$auxiliary5: #eff9ff;
+$auxiliary6: #ebfff9;
+$auxiliary7: #a6dcff; // 背景色是主色时，字体颜色
+
+/**
+ * input文本框
+ */
+$inputBorder: #ddd;
+
+$borderColor: #e8e8e8; // 边框颜色
+
+$mainBackground: #f0f4fb; // 背景色
+
+
+/**
+ * 登录页面颜色
+ */
+ $toLogin: #015099; // 顶部切换个人和企业员工字体颜色
+ $toLoginHover: #0affd8; // 顶部切换个人和企业员工hover时字体颜色
+ $toggleLoginTab: #368bcb; // 登录方式选中时、立即注册颜色
+ $loginDialogShadow: #44a3db; // 登录框盒子阴影
+ $loginBtnShadow: #ade5e1; // 登录按钮盒子阴影

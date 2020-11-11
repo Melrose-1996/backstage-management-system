@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "detail": "获取用户运营中心菜单集合",
+    "entity": {
+        "applicationList": [
+            {
+                "applicationName": "首页",
+                "id": 3
+            },
+            {
+                "applicationName": "账号中心",
+                "id": 1
+            },
+            {
+                "applicationName": "访问管理",
+                "id": 2
+            }
+        ],
+        "businessRoleName": null,
+        "menuList": [
+            {
+                "applicationId": 1,
+                "displayIndex": 79,
+                "favoriteResourceId": null,
+                "id": 35,
+                "isCollect": false,
+                "name": "账号信息",
+                "parentId": 5,
+                "linkAddress": "/account_center/account_info",
+                "resourceCode": "r010103",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 1,
+                "displayIndex": 2,
+                "favoriteResourceId": null,
+                "id": 36,
+                "isCollect": false,
+                "name": "安全设置",
+                "parentId": 5,
+                "linkAddress": "/account_center/security_setting",
+                "resourceCode": "r010104",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 1,
+                "displayIndex": 2,
+                "favoriteResourceId": null,
+                "id": 37,
+                "isCollect": false,
+                "name": "项目管理",
+                "parentId": 5,
+                "linkAddress": "/account_center/project_management",
+                "resourceCode": "r010105",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 30,
+                "favoriteResourceId": null,
+                "id": 38,
+                "isCollect": false,
+                "name": "概览",
+                "parentId": 6,
+                "linkAddress": "/access_management/overview",
+                "resourceCode": "r010106",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 1,
+                "favoriteResourceId": null,
+                "id": 39,
+                "isCollect": false,
+                "name": "用户",
+                "parentId": 6,
+                "linkAddress": null,
+                "resourceCode": "r010107",
+                "resourceType": 3
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 1,
+                "favoriteResourceId": null,
+                "id": 40,
+                "isCollect": false,
+                "name": "用户列表",
+                "parentId": 39,
+                "linkAddress": "/access_management/user_list",
+                "resourceCode": "r010108",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 1,
+                "favoriteResourceId": null,
+                "id": 41,
+                "isCollect": false,
+                "name": "用户设置",
+                "parentId": 39,
+                "linkAddress": "/access_management/user_settings",
+                "resourceCode": "r010109",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 39,
+                "favoriteResourceId": null,
+                "id": 42,
+                "isCollect": false,
+                "name": "用户组",
+                "parentId": 6,
+                "linkAddress": "/access_management/user_group",
+                "resourceCode": "r010301",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 39,
+                "favoriteResourceId": null,
+                "id": 43,
+                "isCollect": false,
+                "name": "策略",
+                "parentId": 6,
+                "linkAddress": "/access_management/strategy",
+                "resourceCode": "r010303",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 2,
+                "displayIndex": 39,
+                "favoriteResourceId": null,
+                "id": 44,
+                "isCollect": false,
+                "name": "角色",
+                "parentId": 6,
+                "linkAddress": "/access_management/roles",
+                "resourceCode": "r010303",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 45,
+                "isCollect": false,
+                "name": "我的申请单",
+                "parentId": 7,
+                "linkAddress": null,
+                "resourceCode": "r010104",
+                "resourceType": 3
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 46,
+                "isCollect": false,
+                "name": "新建集群",
+                "parentId": 45,
+                "linkAddress": "/wecome/new_cluster",
+                "resourceCode": "r010105",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 47,
+                "isCollect": false,
+                "name": "菜单权限管理",
+                "parentId": 7,
+                "linkAddress": null,
+                "resourceCode": "r010106",
+                "resourceType": 3
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 48,
+                "isCollect": false,
+                "name": "菜单管理",
+                "parentId": 47,
+                "linkAddress": "/wecome/menu_management",
+                "resourceCode": "r010107",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 49,
+                "isCollect": false,
+                "name": "角色管理",
+                "parentId": 47,
+                "linkAddress": "/wecome/roles_management",
+                "resourceCode": "r010108",
+                "resourceType": 4
+            },
+            {
+                "applicationId": 3,
+                "displayIndex": 80,
+                "favoriteResourceId": null,
+                "id": 50,
+                "isCollect": false,
+                "name": "分配角色",
+                "parentId": 47,
+                "linkAddress": "/wecome/assign_roles",
+                "resourceCode": "r010109",
+                "resourceType": 4
+            }
+        ]
+    },
+    "generalBusinessException": null
+}

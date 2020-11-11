@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+/*.js
+/src/util/base64.js
+/src/util/LodopFuncs.js
+/tests/

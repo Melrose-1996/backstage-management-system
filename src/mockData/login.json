@@ -1,0 +1,13 @@
+{
+	"code": 0,
+	"detail": "获取成功",
+	"entity": {
+	"account": "USER0001",
+	"imageUrl": "userImg5.png",
+	"isLogin": true,
+	"memberType": 2,
+	"userId": "1",
+	"userName": "superAdmin"
+	},
+	"generalBusinessException": null
+}

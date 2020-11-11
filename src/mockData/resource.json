@@ -1,0 +1,38 @@
+{
+	"code": 0,
+    "detail": "获取菜单集合",
+    "entity": [
+    	{
+            "displayIndex": 1,
+            "id": 1,
+            "name": "蜂鸟数据云平台",
+            "parentId": 0,
+            "resourceCode": "r01",
+            "resourceType": 0
+        },
+        {
+            "displayIndex": 1,
+            "id": 2,
+            "name": "首页",
+            "parentId": 1,
+            "resourceCode": "r0101",
+            "resourceType": 1
+        },
+        {
+            "displayIndex": 1,
+            "id": 3,
+            "name": "菜单权限管理",
+            "parentId": 2,
+            "resourceCode": "r010101",
+            "resourceType": 3
+        },
+        {
+            "displayIndex": 1,
+            "id": 4,
+            "name": "菜单管理",
+            "parentId": 3,
+            "resourceCode": "r01010101",
+            "resourceType": 4
+        }
+    ]
+}
